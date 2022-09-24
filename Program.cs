@@ -6,6 +6,7 @@ internal static class Program
 {
     private static void Main()
     {
+        Console.WriteLine("test");
         // var test = new Test();
         // foreach (int o in test)
         // {
